@@ -5,23 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/Library_Blocking.umap",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Main_global.umap",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_1A8D987B.uasset",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_E12CA007.uasset",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_F03CB300.uasset",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_1FCEC332.uasset",
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_E77EA192.uasset",
-<<<<<<< HEAD
-				"C:/Users/2312042/Documents/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Sublevels/Library/_GENERATED/2312042/Boolean_219226CC.uasset",
-=======
->>>>>>> 63730ba (Blocking_Library)
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/Main_global.umap",
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/Sublevels/Library/Library_Blocking.umap",
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/Sublevels/Market/Market_Blocking.umap",
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/GYM.umap",
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/Gym/GYM_Adam.umap",
-				"C:/Users/2339482/Documents/Unreal Projects/Enfants_Lunes/Content/Maps/Gym/GYM_Victor.umap"
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/TestsBP/Nadia_BP.umap",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/TestsBP/Ines_BP.umap",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/85/H48WXXUOHPDQ5635GUYJDI.uasset"
 			]
 		}
 	]

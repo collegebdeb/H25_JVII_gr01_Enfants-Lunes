@@ -1366,3 +1366,336 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.17-16.44.24:114][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.276721
 [2025.03.17-16.44.24:116][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
 [2025.03.17-16.44.24:116][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.276721, Update Interval: 351.869873
+[2025.03.17-16.45.11:697][154]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.03.17-16.45.11:954][157]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.03.17-16.45.17:689][488]Cmd: language=en
+[2025.03.17-16.45.17:692][488]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2025.03.17-16.45.17:692][488]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2025.03.17-16.45.17:958][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.17:964][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.17:968][489]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.17-16.45.17:970][489]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.17-16.45.17:974][489]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.03.17-16.45.19:603][588]LogSlate: Took 0.006241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.17-16.45.23:843][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.17-16.45.23:844][842]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.45.24:188][842]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.17-16.45.24:188][842]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.17-16.45.24:188][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-16.45.24:188][842]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-16.45.24:204][842]LogWorldPartition: Display: WorldPartition initialize took 15.374 ms
+[2025.03.17-16.45.24:205][842]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.45.24:206][842]Cmd: MAP LOAD FILE="D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.17-16.45.24:584][842]LogWorld: UWorld::CleanupWorld for Main_global, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.45.24:584][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.24:585][842]LogWorld: UWorld::CleanupWorld for Market_Blocking, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.45.24:585][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.24:585][842]LogWorld: UWorld::CleanupWorld for Library_Blocking, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.45.24:585][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.24:602][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-16.45.24:613][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.17-16.45.24:616][842]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.45.24:616][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.45.24:616][842]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.45.24:626][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.17-16.45.24:634][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.17-16.45.24:638][842]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.03.17-16.45.24:638][842]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.17-16.45.24:639][842]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.17-16.45.24:639][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-16.45.24:639][842]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-16.45.24:646][842]LogWorldPartition: Display: WorldPartition initialize took 7.437 ms (total: 22.811 ms)
+[2025.03.17-16.45.24:662][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.17-16.45.24:671][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.17-16.45.24:714][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.17-16.45.24:714][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,478ms to complete.
+[2025.03.17-16.45.25:109][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.17-16.45.25:115][842]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.17-16.46.07:914][243]LogDerivedDataCache: C:/Users/2339482/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.17-16.47.26:107][239]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.17-16.47.26:187][239]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.17-16.47.26:193][240]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.17-16.47.35:201][775]LogContentBrowser: Attempting asset rename: NewFolder -> TestsBP
+[2025.03.17-16.47.35:235][775]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.17-16.47.38:455][961]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.03.17-16.47.38:460][961]LogContentBrowser: Creating deferred item: NewWorld
+[2025.03.17-16.47.38:485][963]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.03.17-16.47.46:235][416]LogContentBrowser: Attempting asset rename: NewWorld -> Nadia_BP
+[2025.03.17-16.47.46:236][416]LogChaosDD: Creating Chaos Debug Draw Scene for world Nadia_BP
+[2025.03.17-16.47.46:252][416]LogContentBrowser: End creating deferred item NewWorld
+[2025.03.17-16.47.48:548][543]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.03.17-16.47.48:612][543]LogContentBrowser: Creating deferred item: NewWorld
+[2025.03.17-16.47.48:618][544]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.03.17-16.47.51:867][743]LogContentBrowser: Attempting asset rename: NewWorld -> Ines_BP
+[2025.03.17-16.47.51:868][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Ines_BP
+[2025.03.17-16.47.51:884][743]LogContentBrowser: End creating deferred item NewWorld
+[2025.03.17-16.47.53:346][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.17-16.47.53:350][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-16.47.53:447][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.17-16.47.53:464][831]LogSavePackage: Moving output files for package: /Game/Maps/TestsBP/Nadia_BP
+[2025.03.17-16.47.53:464][831]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/Nadia_BP40A04959420372659CC12DAB3C55DA3B.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/TestsBP/Nadia_BP.umap'
+[2025.03.17-16.47.53:468][831]LogFileHelpers: Saving map 'Nadia_BP' took 0.039
+[2025.03.17-16.47.53:479][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.17-16.47.53:496][831]LogSavePackage: Moving output files for package: /Game/Maps/TestsBP/Ines_BP
+[2025.03.17-16.47.53:496][831]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/Ines_BPFABB4C694805B9DB77BE67BD029795DF.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/TestsBP/Ines_BP.umap'
+[2025.03.17-16.47.53:498][831]LogFileHelpers: Saving map 'Ines_BP' took 0.030
+[2025.03.17-16.47.53:502][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.921 ms
+[2025.03.17-16.47.53:558][831]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.17-16.47.53:558][831]LogContentValidation: Enabled validators:
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-16.47.53:558][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-16.47.53:559][831]AssetCheck: /Game/Maps/TestsBP/Nadia_BP Validating asset
+[2025.03.17-16.47.53:559][831]AssetCheck: /Game/Maps/TestsBP/Ines_BP Validating asset
+[2025.03.17-16.48.12:894][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.17-16.48.12:895][968]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.48.12:897][968]LogChaosDD: Creating Chaos Debug Draw Scene for world GYM
+[2025.03.17-16.48.12:903][968]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GYM.GYM
+[2025.03.17-16.48.12:903][968]Cmd: MAP LOAD FILE="D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/GYM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.17-16.48.13:012][968]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.13:012][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.13:012][968]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.48.13:391][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-16.48.13:392][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.17-16.48.13:393][968]LogWorld: UWorld::CleanupWorld for GYM, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.13:393][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.13:393][968]LogWorld: UWorld::CleanupWorld for Nadia_BP, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.13:393][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.13:394][968]LogWorld: UWorld::CleanupWorld for Ines_BP, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.13:394][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.13:402][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.17-16.48.13:410][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.17-16.48.13:412][968]LogAudio: Display: Audio Device (ID: 1) registered with world 'GYM'.
+[2025.03.17-16.48.13:412][968]LogChaosDD: Creating Chaos Debug Draw Scene for world GYM
+[2025.03.17-16.48.13:414][968]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Gym/GYM_Victor) is flushing async loading
+[2025.03.17-16.48.13:418][968]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Gym/GYM_Adam) is flushing async loading
+[2025.03.17-16.48.13:426][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.17-16.48.13:436][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.17-16.48.13:480][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.17-16.48.13:480][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,053ms to complete.
+[2025.03.17-16.48.24:410][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.17-16.48.24:412][620]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.48.24:421][620]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_global
+[2025.03.17-16.48.24:426][620]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main_global.Main_global
+[2025.03.17-16.48.24:426][620]Cmd: MAP LOAD FILE="D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/Main_global.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.17-16.48.24:537][620]LogWorld: UWorld::CleanupWorld for GYM, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.24:537][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.24:537][620]LogWorld: UWorld::CleanupWorld for GYM_Victor, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.24:537][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.24:537][620]LogWorld: UWorld::CleanupWorld for GYM_Adam, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.24:537][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.24:547][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-16.48.24:548][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.17-16.48.24:549][620]LogWorld: UWorld::CleanupWorld for Main_global, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.24:550][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.24:558][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.17-16.48.24:616][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.17-16.48.24:626][620]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_global'.
+[2025.03.17-16.48.24:626][620]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_global
+[2025.03.17-16.48.24:632][620]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Sublevels/Library/Library_Blocking) is flushing async loading
+[2025.03.17-16.48.24:731][620]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Sublevels/Market/Market_Blocking) is flushing async loading
+[2025.03.17-16.48.24:745][620]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.17-16.48.24:767][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.17-16.48.25:058][620]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.17-16.48.25:059][620]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,293ms to complete.
+[2025.03.17-16.48.25:152][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.17-16.48.26:745][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.17-16.48.26:747][714]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.48.26:748][714]LogChaosDD: Creating Chaos Debug Draw Scene for world GYM
+[2025.03.17-16.48.26:753][714]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GYM.GYM
+[2025.03.17-16.48.26:753][714]Cmd: MAP LOAD FILE="D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/Maps/GYM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.17-16.48.27:136][714]LogWorld: UWorld::CleanupWorld for Main_global, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.27:137][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.27:137][714]LogWorld: UWorld::CleanupWorld for Library_Blocking, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.27:137][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.27:137][714]LogWorld: UWorld::CleanupWorld for Market_Blocking, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.27:138][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.27:150][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-16.48.27:159][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.17-16.48.27:162][714]LogWorld: UWorld::CleanupWorld for GYM, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.27:162][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.27:170][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.17-16.48.27:236][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.17-16.48.27:238][714]LogAudio: Display: Audio Device (ID: 1) registered with world 'GYM'.
+[2025.03.17-16.48.27:238][714]LogChaosDD: Creating Chaos Debug Draw Scene for world GYM
+[2025.03.17-16.48.27:239][714]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Gym/GYM_Adam) is flushing async loading
+[2025.03.17-16.48.27:243][714]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Gym/GYM_Victor) is flushing async loading
+[2025.03.17-16.48.27:252][714]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.17-16.48.27:262][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.17-16.48.27:305][714]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.17-16.48.27:306][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,055ms to complete.
+[2025.03.17-16.48.27:613][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.17-16.48.35:986][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.17-16.48.35:987][216]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.48.35:991][216]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.17-16.48.35:991][216]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.17-16.48.35:991][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-16.48.35:991][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-16.48.35:999][216]LogWorldPartition: Display: WorldPartition initialize took 7.926 ms (total: 30.738 ms)
+[2025.03.17-16.48.36:000][216]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.48.36:000][216]Cmd: MAP LOAD FILE="D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.17-16.48.36:362][216]LogWorld: UWorld::CleanupWorld for GYM, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.36:362][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.36:362][216]LogWorld: UWorld::CleanupWorld for GYM_Adam, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.36:362][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.36:362][216]LogWorld: UWorld::CleanupWorld for GYM_Victor, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.36:362][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.36:371][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-16.48.36:372][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.17-16.48.36:373][216]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-16.48.36:373][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-16.48.36:373][216]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.48.36:436][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.17-16.48.36:445][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.17-16.48.36:448][216]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.03.17-16.48.36:448][216]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.17-16.48.36:449][216]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.17-16.48.36:449][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-16.48.36:449][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-16.48.36:457][216]LogWorldPartition: Display: WorldPartition initialize took 7.447 ms (total: 38.186 ms)
+[2025.03.17-16.48.36:466][216]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.17-16.48.36:474][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.17-16.48.36:522][216]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.17-16.48.36:522][216]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,443ms to complete.
+[2025.03.17-16.48.36:585][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.17-16.49.53:633][721]LogSlate: Window 'Message' being destroyed
+[2025.03.17-16.49.53:679][721]Message dialog closed, result: Yes, title: Message, text: You are about to remove world partition from the current level. Continue?
+[2025.03.17-16.49.53:682][721]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.17-16.49.53:786][721]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.17-16.50.06:087][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-16.50.06:182][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.17-16.50.06:192][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.17-16.50.06:200][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.17-16.50.06:569][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.17-16.50.06:833][447]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.03.17-16.50.06:834][447]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/ThirdPersonMap4E6783AD4B53B42F6937F3A1A14B9BF3.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2025.03.17-16.50.07:144][447]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.939
+[2025.03.17-16.50.07:159][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.07 sec (total: 1.22 sec)
+[2025.03.17-16.50.07:188][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-16.50.07:188][447]LogContentValidation: Enabled validators:
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-16.50.07:188][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-16.50.07:188][447]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.17-16.50.15:684][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 359.170563
+[2025.03.17-16.50.15:751][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-16.50.15:751][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 359.221008, Update Interval: 334.716034
+[2025.03.17-16.50.19:515][185]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (WorldPartitionMiniMap0) Flags: (0x00200001)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: ================================================
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Total job queries 160, among them cache hits 9 (5.62%), DDC hits 143 (89.38%), Duplicates 3 (1.88%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 140 distinct outputs (94.59%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: RAM used: 116,04 KiB of 3,20 GiB budget. Usage: 0.00%
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Job execution time: average 8.25 s, max 8.59 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Job life time (pending + execution): average 8.34 s, max 8.68
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Shader code size: average 8,334 KiB, min 7,008 KiB, max 12,086 KiB
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.68 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Average processing rate: 0.58 jobs/sec
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Total thread time: 2,175 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Total thread preprocess time: 2,183 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Percentage time preprocessing: 100.36%
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Effective parallelization: 0.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.65% of total time (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.22% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.89% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.69% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.56% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: === Material stats ===
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Materials Translated:    131
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Material Translation Only: 0.02 s (36%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.03.17-16.50.21:117][281]LogShaderCompilers: Display: ================================================
+[2025.03.17-16.50.36:962][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.17-16.50.36:966][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-16.50.37:041][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L] ([1] browsable assets)...
+[2025.03.17-16.50.37:041][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L]
+[2025.03.17-16.50.37:057][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L
+[2025.03.17-16.50.37:058][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/TY7TSUER9KKGHX2BMKSL0L6FE5476D44E17C3E2E65018994F64C93.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset'
+[2025.03.17-16.50.37:061][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR] ([1] browsable assets)...
+[2025.03.17-16.50.37:062][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR]
+[2025.03.17-16.50.37:337][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR
+[2025.03.17-16.50.37:338][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/3MZ6M1DB94VN44C87D65WR8F9BD7834BD0671C036FFCB52756C469.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset'
+[2025.03.17-16.50.37:341][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A] ([1] browsable assets)...
+[2025.03.17-16.50.37:341][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A]
+[2025.03.17-16.50.37:362][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A
+[2025.03.17-16.50.37:363][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/PIQ0B2FNWR15P52TECP27A8CC17ED641E5A87A7D94AAAF3CC18340.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset'
+[2025.03.17-16.50.37:367][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J] ([1] browsable assets)...
+[2025.03.17-16.50.37:367][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J]
+[2025.03.17-16.50.37:382][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J
+[2025.03.17-16.50.37:383][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/KHZG97SS6AL73U7AXDWH6JAD3F06DB4A62A5227C2915A7181C8E4F.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset'
+[2025.03.17-16.50.37:386][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM] ([1] browsable assets)...
+[2025.03.17-16.50.37:386][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM]
+[2025.03.17-16.50.37:398][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM
+[2025.03.17-16.50.37:400][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/FDH7Y28CQFXDK8P6MM1HXMCEA6F9E34C756C51AC1D91AD56A1B2B1.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset'
+[2025.03.17-16.50.37:403][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC] ([1] browsable assets)...
+[2025.03.17-16.50.37:403][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC]
+[2025.03.17-16.50.37:415][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC
+[2025.03.17-16.50.37:416][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/22PD314FCWY4ZK61DE3XZC7FBAFF644D8B2431E30EBFBB683FD475.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset'
+[2025.03.17-16.50.37:431][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2025.03.17-16.50.37:432][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/XWFFRCIJ8QK4NRO30ALA6J9A8F71C548A6CDBE9B98518452B2240B.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2025.03.17-16.50.37:702][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+[2025.03.17-16.50.37:703][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/NB37RT5Q32Z8MJWD8BD2SOFD7987064AF3C6D60DE07FA7FE2CF45F.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2025.03.17-16.50.37:719][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2025.03.17-16.50.37:720][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/BEYC27T14FHBU6LF2F60RR90A34E7547856D7617F1A498BF69E3EE.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2025.03.17-16.50.37:736][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2025.03.17-16.50.37:737][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/OTJMGDDXDV5TI7982YKZ5PF193AE8C4AD12CCD3D79D3A3539C034E.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2025.03.17-16.50.37:752][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2025.03.17-16.50.37:753][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/SWSI13675DVYIZ0N4NF7Y3614D5F4A4A0E9827750C6D92FC9034BA.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2025.03.17-16.50.37:768][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2025.03.17-16.50.37:770][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/GK06JAEJ82TQ0GA2QB0DJG197973024B56FC4C6C60F689126E3951.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2025.03.17-16.50.37:773][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/85/H48WXXUOHPDQ5635GUYJDI] ([1] browsable assets)...
+[2025.03.17-16.50.37:773][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/85/H48WXXUOHPDQ5635GUYJDI]
+[2025.03.17-16.50.37:785][218]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/85/H48WXXUOHPDQ5635GUYJDI
+[2025.03.17-16.50.37:785][218]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/H48WXXUOHPDQ5635GUYJDI7D3D11764928E20CE57F9B90B9815434.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/85/H48WXXUOHPDQ5635GUYJDI.uasset'
+[2025.03.17-16.50.38:084][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 2.34 sec)
+[2025.03.17-16.50.38:146][218]LogContentValidation: Display: Starting to validate 13 assets
+[2025.03.17-16.50.38:146][218]LogContentValidation: Enabled validators:
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-16.50.38:146][218]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-16.50.38:146][218]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.17-16.50.47:149][758]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-16.50.47:150][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Nadia_BP
+[2025.03.17-16.50.47:167][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Ines_BP
+[2025.03.17-16.50.49:046][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.17-16.50.49:048][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-16.50.49:474][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.17-16.50.49:747][867]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.03.17-16.50.49:748][867]LogSavePackage: Moving 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Saved/ThirdPersonMap0B641C664CF8753AED4AF5B229E9CB6B.tmp' to 'D:/Session 4/Jeu video II/H25_JVII_gr01_Equipe03/Enfants_Lunes/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2025.03.17-16.50.50:057][867]LogFileHelpers: All files are already saved.
+[2025.03.17-16.50.50:059][867]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.937
+[2025.03.17-16.50.50:078][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 3.37 sec)
+[2025.03.17-16.50.50:133][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-16.50.50:133][867]LogContentValidation: Enabled validators:
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-16.50.50:133][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-16.50.50:134][867]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
