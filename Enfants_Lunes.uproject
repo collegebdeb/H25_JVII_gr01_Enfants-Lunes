@@ -33,6 +33,10 @@
 		{
 			"Name": "SkeletalMerging",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
